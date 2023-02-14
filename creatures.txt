@@ -1,0 +1,8 @@
+Toothy,Dragon,black,4
+Glade,Elf,green,2
+Gremlin,Goblin,yellow,44
+Whoosh,Genie,purple,99
+OldFire,Dragon,blue,345
+Silverin,Elf,turquoise,19
+Gaga,Goblin,white,512
+Loompa,Genie,orange,99
